@@ -12,4 +12,4 @@ Metaplay’s report on the “Game Development Renaissance” is a glimpse at ho
 
 ### Input from another student
 
-Your paragraph here
+This article paints a bright outlook on the future of the gaming industry, crediting a surge in game quality, adoption of live service models, prioritizing cross-platform compatibility, technology and tooling advancements, and an increase in funding and publshing as being the driving forces behind the "Game Development Renaissance". What surprised me most is their comment on the live-service model: despite the overwhelming negativity surrounding the quality of these games, most (75%) in the industry view these "forever games" as positives and expect them to generate increased revenue in the new year. -- Jack Wang ([jackinthebox314](https://github.com/software-students-spring2025/0-git-practice-v2-JackInTheBox314.git))
